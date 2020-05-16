@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+pymysql
+flask-sqlacodegen
+flask-script
+flask_debugtoolbar
+apscheduler
+flask-APScheduler
+requests
+BeautifulSoup4
+uwsgi
